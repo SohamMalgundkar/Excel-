@@ -1,2 +1,2 @@
-# Excel-
-I HAVE DATA REGARDING EXCEL
+# Excel
+This Repisitory Contains my Practice while Learning Excel
